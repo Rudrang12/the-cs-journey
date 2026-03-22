@@ -1,9 +1,9 @@
-                                # -------------PROBLEM SET_0-----------#
+# -------------PROBLEM SET_0-----------#
  
 #GOAL-->To write a python code which takes two numbers as user inputs,
-#       stores them in variables x and y, and performs the following operations
+#       x and y, and performs the following operations-
 #           1.x^y [i.e. x raised to the power y]
-#           2.log2(x) [i.e. log(base2) of x] 
+#           2.log(base2) of x 
 #         
 
 import numpy    # Importing the module numpy
